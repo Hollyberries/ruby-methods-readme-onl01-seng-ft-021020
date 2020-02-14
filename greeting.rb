@@ -19,3 +19,4 @@ def greeting
 end
 
 greeting
+File: greeting.RUBY_VERSION
